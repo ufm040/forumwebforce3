@@ -27,6 +27,7 @@ echo '<h2> Topic </h2>'; ?>
 	<div class="submit-label">	
 		<input type="submit" value="Envoyer !" />
 	</div>
+	<p>Merci !</p>
 </form>
 
 <?php
